@@ -80,6 +80,11 @@ a.button.menu {
 	border-color: #9da639;
 }
 
+.btn-primary:hover, .btn-primary:focus {
+  	background-color: #cccccc;
+  	border-color: #cccccc;
+}
+
 .btn-primary {
 	color: #fff;
 	background-color: #cccccc;
