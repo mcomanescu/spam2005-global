@@ -82,4 +82,14 @@ a.button.menu {
 body {
 	background: none;
 }
+
+.wrapper {
+	  width: 100%;
+}
+
+section {
+	  width: 100%;
+}
+
+
 }
