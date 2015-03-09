@@ -75,26 +75,6 @@ a.button.menu {
 	border-color: #2b669a;
 }
 
-.btn-primary:active, .btn-primary.active {
-	background-color: #9da639;
-	border-color: #9da639;
-}
-
-.btn-primary:hover, .btn-primary:focus {
-  	background-color: #cccccc;
-  	border-color: #cccccc;
-}
-
-.btn-primary {
-	color: #fff;
-	background-color: #cccccc;
-  	border-color: #cccccc;
-}
-
-.btn-succes {
-	background-color: #9da639;
-}
-
 #download_button {
 	width: 151px;
 }
